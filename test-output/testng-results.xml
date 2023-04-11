@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-10T20:00:43 GMT-04:00" name="Default suite" finished-at="2023-04-10T20:00:53 GMT-04:00" duration-ms="9415">
+    <groups>
+    </groups>
+    <test started-at="2023-04-10T20:00:43 GMT-04:00" name="Default test" finished-at="2023-04-10T20:00:53 GMT-04:00" duration-ms="9415">
+      <class name="Testcases">
+        <test-method is-config="true" signature="basemethod()[pri:0, instance:Testcases@57cf54e1]" started-at="2023-04-10T20:00:43 GMT-04:00" name="basemethod" finished-at="2023-04-10T20:00:45 GMT-04:00" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basemethod -->
+        <test-method signature="Test1()[pri:0, instance:Testcases@57cf54e1]" started-at="2023-04-10T20:00:45 GMT-04:00" name="Test1" finished-at="2023-04-10T20:00:46 GMT-04:00" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:Testcases@57cf54e1]" started-at="2023-04-10T20:00:46 GMT-04:00" name="Test2" finished-at="2023-04-10T20:00:46 GMT-04:00" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:Testcases@57cf54e1]" started-at="2023-04-10T20:00:46 GMT-04:00" name="Test3" finished-at="2023-04-10T20:00:46 GMT-04:00" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:Testcases@57cf54e1]" started-at="2023-04-10T20:00:46 GMT-04:00" name="Test4" finished-at="2023-04-10T20:00:46 GMT-04:00" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method signature="Test5()[pri:0, instance:Testcases@57cf54e1]" started-at="2023-04-10T20:00:46 GMT-04:00" name="Test5" finished-at="2023-04-10T20:00:53 GMT-04:00" duration-ms="6912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method signature="Test6()[pri:0, instance:Testcases@57cf54e1]" started-at="2023-04-10T20:00:53 GMT-04:00" name="Test6" finished-at="2023-04-10T20:00:53 GMT-04:00" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+      </class> <!-- Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
